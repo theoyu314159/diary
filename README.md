@@ -1,6 +1,6 @@
 # diary
 
-![https://diary-yk7e.onrender.com/]
+![網站](https://diary-yk7e.onrender.com/)
 
 日記平台：記錄生活，分享心情
 
